@@ -128,10 +128,8 @@
 /* Turn on Camera */
 .camera-text {
     position: absolute;
-    width: 288px;
-    height: 51px;
-    left: 961px;
-    top: 874px;
+    bottom: 0;
+    right: 0;
 
     font-family: 'Esteban';
     font-style: normal;
