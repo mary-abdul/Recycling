@@ -8,7 +8,7 @@
 }
 
 /* Rectangle 1 */
-.title-box {
+.camera-box {
     position: absolute;
     width: 543px;
     height: 409px;
@@ -20,7 +20,7 @@
 }
 
 /* Rectangle 2 */
-.camera-box {
+.title-box {
     position: absolute;
     width: 1312px;
     height: 195px;
