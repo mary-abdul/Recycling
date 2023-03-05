@@ -136,3 +136,8 @@
 
     color: #000000;
 }
+
+.camera {
+    position: absolute;
+    right:0;
+}
