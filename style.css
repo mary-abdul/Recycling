@@ -18,7 +18,7 @@
 /* Rectangle 2 */
 .title-box {
     position: absolute;
-    width: 1312px;
+    width: 1000px;
     height: 195px;
     left: 64px;
     top: 41px;
@@ -39,7 +39,7 @@
     font-family: 'Concert One';
     font-style: normal;
     font-weight: 400;
-    font-size: 105px;
+    font-size: 90px;
     line-height: 82px;
 
     /* identical to box height */
