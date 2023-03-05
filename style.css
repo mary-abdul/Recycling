@@ -1,10 +1,6 @@
 /* Desktop - 1 */
 .background {
-    position: relative;
-    width: 1440px;
-    height: 1024px;
-
-    background: #85BDBF;
+    background-color: #85BDBF;
 }
 
 /* Rectangle 1 */
